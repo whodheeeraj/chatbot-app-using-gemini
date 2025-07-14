@@ -1,0 +1,4 @@
+streamlit
+ollama
+google-genai
+google-generativeai
