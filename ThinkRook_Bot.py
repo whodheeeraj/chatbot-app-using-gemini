@@ -14,4 +14,5 @@ st.markdown("Welcome to **ThinkRook**, a simple chatbot interface designed to he
 
 st.divider()
 
+st.image("https://newsletter.thinknyx.com/media/Thinknyx_Logo_With_Tag_fW23xi.png")
 st.markdown("_Powered by Thinknyx Technologies LLP_")
